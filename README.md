@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ahmed Thabet
 
-<!--
-**welcome789000-sys/welcome789000-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner front-end web developer from Egypt. I build small, clean websites with HTML, CSS and JavaScript, and I'm learning React.
 
-Here are some ideas to get you started:
+## My projects (live demos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Expense Tracker: https://welcome789000-sys.github.io/expense-tracker/
+- Quiz App: https://welcome789000-sys.github.io/quiz-app/
+- Weather App: https://welcome789000-sys.github.io/weather-app/
+
+## Open to small jobs
+
+Landing pages and personal portfolio pages. Message me through GitHub.
